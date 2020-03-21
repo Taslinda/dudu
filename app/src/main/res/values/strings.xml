@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstProject_GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="toast_benar">Jawaban anda benar</string>
+    <string name="toast_salah">Jawaban anda salah</string>
+    <string name="question_australia">Canberra adalah ibukota Australia</string>
+    <string name="question_oceans">Samudra Pacific lebih besar dari Samudra Atlantik</string>
+    <string name="question_mideast">Terusan Suez menghubungkan Laut Merah dan Samudra Hindia</string>
+    <string name="question_africa">Hulu Sungai Nil berada di Mesir</string>
+    <string name="question_americas">Sungai Amazon adalah sungai terpanjang di Benua Amerika</string>
+    <string name="question_asia">Danau Baikal adalah danau air tawar tertua dan terdalam di  dunia </string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+</resources>
